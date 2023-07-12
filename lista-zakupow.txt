@@ -1,2 +1,3 @@
 chelb   3.50
 jajka   8.00
+maslo   5.50
